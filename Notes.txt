@@ -1,0 +1,22 @@
+Ref: https://www.youtube.com/watch?v=sBTAkHOxvOk
+
+Git & GitHub (Git != GitHub)
+
+Install git on windows
+
+step - 1: check if git installed or not 
+step - 2: download and install git (while installing > if windows prompt is selected, we can use both bash & cmd; can use only bash if it is selected)
+step - 3: add your project to git (goto project location which is to be added to git > right click > git bash here)
+step - 4: check the following commands
+
+git config --global user.email "manasa2901@gmail.com"
+git config --global user.name "doddam"
+git --version 
+git init
+git status
+git add (adding to staging area)
+git commit -m "any message"
+git remote add origin https://github.com/doddam/Repo1.git 
+git push -u origin master -> (pushes data into repository)
+git log
+git --help
