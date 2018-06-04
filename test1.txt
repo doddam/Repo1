@@ -1,2 +1,0 @@
-This is test file - change1
-using stash .. > save changes temporarily > temp commit
