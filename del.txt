@@ -1,0 +1,2 @@
+This file is in the list of ignored files
+Now committing this ignored file
