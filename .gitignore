@@ -1,4 +1,5 @@
 #ignoring all html files
 *.html
 !index.html
-file3
+f*
+!f2
